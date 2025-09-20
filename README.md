@@ -1,2 +1,2 @@
 # bias-detection-ai
-An AI framework for detecting, quantifying, and visualizing bias in datasets and machine learning models.
+Machine learning tool that analyzes political articles and quantifies their bias percentage, helping readers identify potential partisan slant in news content.
